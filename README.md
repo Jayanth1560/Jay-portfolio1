@@ -27,11 +27,11 @@ This repository contains the code for my personal portfolio website.  It showcas
 
 ## Sample Images
 
-![Homepage](assets/img/homepage_screenshot.png)  *Homepage Screenshot*
+![Homepage](assets/img/Readmeimgs/homepage.PNG)  *Homepage Screenshot*
 
-![Projects Section](assets/img/projects_screenshot.png) *Projects Section Screenshot*
+![Projects Section](assets/img/Readmeimgs/projects.PNG) *Projects Section Screenshot*
 
-![Dark Mode](assets/img/darkmode_screenshot.png) *Dark Mode Screenshot*
+![Dark Mode](assets/img/Readmeimgs/darkmode.PNG) *Dark Mode Screenshot*
 
 
 ## How to Run Locally
