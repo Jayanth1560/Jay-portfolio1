@@ -45,6 +45,6 @@ This repository contains the code for my personal portfolio website.  It showcas
 
 ## Contact
 
-*   [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+*   [LinkedIn](https://www.linkedin.com/in/jayanth-varma-namburi)
 *   [GitHub](https://github.com/Jayanth1560)
 
